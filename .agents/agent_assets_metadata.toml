@@ -1,0 +1,14 @@
+uploads = []
+outputs = []
+
+[[generated]]
+id = "IVKV4ztg1KAx4-GrbK6q4"
+uri = "file://artifacts/sindiconnection/public/hero.png"
+type = "image"
+title = "Modern luxury condominium building"
+
+[[generated]]
+id = "jY2kOLJpglN1qkG8hsFwT"
+uri = "file://artifacts/sindiconnection/public/about.png"
+type = "image"
+title = "Professional business meeting"
